@@ -1,7 +1,7 @@
 {
     "name": "rosgear/rg-be-mp-mmanager",
-    "description": "Extension (module) \"Module Manager\" for the GePanel Control Panel",
-    "keywords": ["rosgear", "gepanel", "extension (module)"],
+    "description": "Module extension \"Module Manager\" for the GePanel Control Panel",
+    "keywords": ["rosgear", "gepanel", "module", "extension"],
     "homepage": "https://rosgear.ru/component/rg-be-mp-mmanager/",
     "type": "component",
     "license": "MIT",
