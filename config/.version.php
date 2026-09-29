@@ -12,8 +12,8 @@
 return [
     'name'        => 'Module Manager',
     'description' => 'Management of system modules',
-    'version'     => '1.0',
-    'versionDate' => '20-12-2017',
+    'version'     => '1.0.1',
+    'versionDate' => '28-09-2026',
     'author'      => 'RosGear',
     'authorUrl'   => 'https://rosgear.ru/',
     'email'       => 'info@rosgear.ru',
